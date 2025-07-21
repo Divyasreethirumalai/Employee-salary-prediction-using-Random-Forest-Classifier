@@ -59,6 +59,8 @@ python model_train.py
 
 streamlit run app.py
 
+**Note: ** 
+This project is built as a learning experience by a beginner in machine learning.
 
 
 ## 👩‍💻 Developed By
